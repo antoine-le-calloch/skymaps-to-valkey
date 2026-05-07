@@ -1,4 +1,4 @@
-# skymaps-to-valkey
+# Skymaps to valkey
 
 Populate a Valkey/Redis instance with a meta-MOC index of recent GCN skymaps,
 to benchmark sub-millisecond crossmatch lookups against incoming alerts.
