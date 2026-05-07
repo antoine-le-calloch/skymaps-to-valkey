@@ -1,0 +1,7 @@
+astropy
+astropy_healpix
+mocpy
+numpy
+requests
+python-dotenv
+redis
